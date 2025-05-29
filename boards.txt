@@ -1,0 +1,24 @@
+# See: http://code.google.com/p/arduino/wiki/Platforms
+
+##############################################################
+# NIIET uno
+uno.name=NIIET_UNO_VN035
+uno.upload.tool=k1921vkx_flasher
+uno.upload.maximum_size=65536
+uno.upload.maximum_data_size=16384
+uno.upload.speed=460800
+
+uno.build.mcu=K1921VK035
+uno.build.cpu=cortex-m4
+
+uno.build.f_cpu=100000000L
+uno.build.f_ext=16000000L
+uno.build.clk_select=SYSCLK_PLL
+
+uno.build.board=NIIET_UNO_VK035
+uno.build.core=arduino
+
+uno.build.variant=niiet_uno_035
+
+
+

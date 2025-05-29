@@ -1,0 +1,17 @@
+{
+  "name": "035_hardware",
+  "version": "1.0.0",
+  "description": "Arduino core support for Niiet boards based on k1946vk MCUs",
+  "keywords": [
+    "framework",
+    "arduino",
+    "k1946vk",
+    "1946",
+    "niiet"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "https://gitflic.ru/project/niiet_arduino/035_hardware"
+  }
+}
